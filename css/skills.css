@@ -1,0 +1,114 @@
+.vc_custom_1467138149312 {
+    padding-top: 100px !important;
+    /*background-color: #1a1e23 !important;*/
+    background-color: #fff;
+}
+.vc_row.section-wrapper {
+  margin-left: 0;
+  margin-right: 0;
+}
+.vc_row.vc_row-o-full-height {
+  min-height: 100vh !important;
+}
+.ie9 .vc_row-o-full-height .containerSkills {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+}
+.section-wrapper {
+  position: relative;
+}
+.ie9 .vc_row-o-full-height .containerSkills {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+}
+.navbar > .containerSkills .navbar-brand,
+.navbar > .container-fluid .navbar-brand {
+  margin-left: 0;
+}
+.container-fullwidth .vc_column_container > .vc_column-inner {
+  padding-left: 0;
+  padding-right: 0;
+}
+.wpb_wrapper h4 {
+  color: #333;
+  font-size: 20px;
+}
+.section-title {
+  margin-bottom: 80px;
+  text-align: center;
+  font-size: 50px;
+  line-height: 50px;
+  color: #252525;
+  position: relative;
+}
+.section-title::after {
+  content: "";
+  background: url(images/section-divider.png) no-repeat 0 0;
+  height: 15px;
+  width: 113px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -40px;
+  margin: 0 auto;
+}
+.skills-section .section-title {
+  color: #333;
+  margin-bottom: 110px;
+}
+.skills-section .section-title h2 {
+  color: #333;
+}
+.fadeInUp {
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+}
+.vc_progress_bar.wpb_content_element.vc_progress-bar-color-grey h2 {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 8px;
+}
+.vc_progress_bar .vc_single_bar {
+  height: 10px;
+  background: #cecece !important;
+}
+.vc_progress_bar .vc_single_bar .vc_label {
+  padding: 0.5em 0em !important;
+  top: -40px !important;
+  font-size: 16px !important;
+  color: #333 !important;
+}
+.vc_progress_bar .vc_single_bar {
+  margin-bottom: 50.67px !important;
+}
+.wpb_button,
+.wpb_content_element,
+ul.wpb_thumbnails-fluid > li {
+  margin-bottom: 0px !important;
+}
+span.vc_label_units {
+  float: right;
+  font-size: 12px;
+}
+small.vc_label {
+  font-size: 100%;
+}
+.vc_pie_chart .vc_pie_wrapper {
+  margin: 0 auto 15px !important;
+  position: relative;
+}
+.vc_pie_chart .vc_pie_chart_value {
+  color: #333 !important;
+}
+.vc_pie_chart .vc_pie_wrapper {
+  margin: 0 auto 15px !important;
+  position: relative;
+}
